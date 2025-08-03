@@ -17,10 +17,17 @@
 
 ### 1. Клонирование репозитория
 
-```bash
+````bash
 git clone https://github.com/yourusername/travel-diary.git
 cd TravelDiarySynergyPractica
-Установить зависимости - npm i
-Запустить проект npm run dev
 
-```
+### 2. Установка зависимостей
+```bash
+
+Установить зависимости - npm i
+### 3. Запуск проекта
+```bash
+
+npm run dev
+
+````
