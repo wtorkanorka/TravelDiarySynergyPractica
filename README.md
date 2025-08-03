@@ -25,7 +25,7 @@ cd TravelDiarySynergyPractica
 ### 2. Установка зависимостей
 
 ```bash
-Установить зависимости - npm i
+npm i
 ```
 
 ### 3. Запуск проекта
